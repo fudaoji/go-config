@@ -4,6 +4,7 @@ go 1.17
 
 require (
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
+	github.com/goinggo/mapstructure v0.0.0-20140717182941-194205d9b4a9 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/magiconair/properties v1.8.5 // indirect
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
